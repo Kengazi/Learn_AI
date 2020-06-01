@@ -6,15 +6,24 @@ Created on Thu May  7 20:59:45 2020
 @author: kendalljohnson
 """
 
-#   Hello my name is Kendall and I have created a basic leason place to learn Machine Learning(ML) for Data Science
+#   Hello my name is Kendall Johnson and I have created a basic leason place to learn Machine Learning (ML) for Data Science
+
 #   First we will strengthen your python skills
 #   Next basic ML statgies on a dataset
 #   Followed by Artifical Neural Nets (ANN)
-#   Lastly is YOLO models 
+#   Then we will work with OpenCV
+#   Lastly we will learn and implement YOLO Models and Tensor Models
 #   Then you will make your own image classifier if there is time
 #   I hope to also have add some linux commands and data analysis on sensor platforms
 
-# modules needed :: numpy, pandas, matplotlib, sci-kit learn, keras, tensorflow, pytorch, and opencv 3.#
+# Most of the scripts will be self explainitory but this youtube channel with help if you have any problems
+# I would actually recommend watching many of them before you start your assignments they correspond very well
+
+# YouTube link: https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+
+# I can be reached for absolutly any reason at Kendall.Johnson@parsons.com
+
+# Modules needed :: numpy, pandas, matplotlib, sci-kit learn, keras, tensorflow, pytorch, and opencv 3.# 
 
 # dataset :: Boston Houses, Titanic guest, Medical data, MNIST Handwritten digits, Cifar, Diabetes and Sensor Data
 
